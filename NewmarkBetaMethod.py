@@ -7,10 +7,6 @@ Created on Wed Feb 14 17:43:03 2024
          abahugu@clemson.edu
 
 Newmark-Beta Method 
-This code is python version of MATLAB code developed by Dr. Pang, 
-                                                        Clemson Univeristy 
-                                                        Clemson, SC,
-                                                        USA
 
 """
 import numpy as np
